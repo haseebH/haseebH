@@ -3,7 +3,7 @@
 I'm Haseeb, a passionate DevOps and Backend Engineer with 10 years of experience. I specialize in designing,
 implementing, and maintaining scalable and robust infrastructure and backend systems. My mission is to leverage
 technology to solve real-world problems and drive business success. Check out my
-portfolio [here](https://haseebh.github.io/portfolio/).
+portfolio [here](https://haseebh.github.io).
 
 ---
 
@@ -46,7 +46,7 @@ something remarkable!
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
 </a>
 
-<a href="https://haseebH.github.io/portfolio/">
+<a href="https://haseebH.github.io">
   <img src="https://skillicons.dev/icons?i=github"  alt="github"/>
 </a>
 
